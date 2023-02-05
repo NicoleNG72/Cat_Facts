@@ -1,0 +1,22 @@
+body{
+    background-color: #ECF9FF;
+    text-align: center;
+    margin: 50px;
+}
+button{
+    margin-top: 150px;
+    height: 60px;
+    width: 200px;
+    font-size: 20px;
+    color: white;
+    background-color: #93BFCF;
+    border: solid;
+    border-radius: 10px;
+}
+.main-heading{
+    font-family: cursive;
+    font-size: 4rem;
+}
+button:active{
+    opacity: 0.5;
+}
